@@ -15,6 +15,22 @@
 
 ---
 
+## 🚀 About Me
+
+  education: "5th Semester Computer Science Student",
+  
+  passion: "AI & Machine Learning Enthusiast",
+  
+  workEthic: "Hardworking & Dedicated",
+  
+  focus: "Full Stack Development & AI",
+  
+  mindset: "Always learning, always growing",
+  
+  goal: "Building intelligent solutions that make a difference"
+
+---
+
 ## 📊 Weekly Development Breakdown
 
 C++    🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   75%
